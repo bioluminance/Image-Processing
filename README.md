@@ -29,7 +29,7 @@ This project demonstrates fundamental image processing techniques using Python l
 └── edges.jpg
 
 ## 🎥 Video Demo:
-[Watch Here]([https://drive.google.com/file/d/1F9wf9ir_QCQMiSS96Vlxhm3_IVhY9jo7/view?usp=drive_link])
+[Watch Here][https://drive.google.com/file/d/1F9wf9ir_QCQMiSS96Vlxhm3_IVhY9jo7/view?usp=drive_link]
 
 ## 🚀 How to Run:
 1. Clone the repository
